@@ -1,0 +1,1 @@
+[[0,"admin","admin","admin@gmail.com","admin123"],[1,"manager","Manager","manager@gmail.com","manager123"],[2,"admin","pinky","pinky@gmail.com","123456"],[3,"user","demo","demo@gmail.com","demo123"],[4,"user","chumki","chumki@gmail.com","chumki123"],[5,"manager","abcd","abcd@gmail.com","abcd123"],[6,"user","karim","karim@gmail.com","8434919efa2843175115f6a7600c236d58eb9da1"]]
